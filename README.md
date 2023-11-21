@@ -59,9 +59,16 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
+![0001](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/151631489/7a89c6f8-6866-4cb7-a747-94e3269f418b)
+![0002](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/151631489/377ed10d-a7d2-47eb-8f18-c8973ca43490)
+![0003](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/151631489/e52a9577-78cc-4dbb-ab7a-b7529efa29e5)
+![0004](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/151631489/2217d356-47b9-4cc3-8960-c7cbdc0d7a5e)
+![WhatsApp Image 2023-11-21 at 16 17 18](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/151631489/6e52fc9f-8946-40a5-a0d0-8f89b6e56d16)
 
-### Name: 
-### Register Number:
+
+
+### Name: Vishal T
+### Register Number: 23008384
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
